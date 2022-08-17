@@ -1,0 +1,8 @@
+{
+    "default": {
+      "boost": {
+        "baseline": "1.76",
+        "port-version": 0
+      }
+    }
+  }
